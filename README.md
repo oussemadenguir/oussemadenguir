@@ -72,7 +72,7 @@ Passionate about building scalable, distributed systems and elegant user experie
 
 ## 📫 Get In Touch
 
-- **Email**: [oussema.denguir@esprit.tn](mailto:oussema.denguir@esprit.tn)
+- **Email**: [oussemadenguir999@gmail.com](mailto:oussemadenguir999@gmail.com)
 - **LinkedIn**: [Connect with me](https://linkedin.com/in/oussedenguir)
 - **GitHub**: [oussemadenguir](https://github.com/oussemadenguir)
 
