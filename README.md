@@ -34,6 +34,13 @@ Passionate about building scalable, distributed systems and elegant user experie
 - **Message Queues** - RabbitMQ, Kafka
 - **Load Balancing** - Nginx, HAProxy
 
+### **AI & Machine Learning**
+- **Deep Learning** - TensorFlow, Keras, MobileNetV2
+- **Classical ML** - scikit-learn (DBSCAN, Random Forest, PCA)
+- **Natural Language Processing** - Universal Sentence Encoder, LLM integration
+- **Computer Vision** - OCR (Google Cloud Vision, Tesseract), face-api.js
+- **Model Deployment** - FastAPI, TensorFlow.js inference
+
 ---
 
 ## 🏆 Featured Projects
@@ -45,6 +52,16 @@ Passionate about building scalable, distributed systems and elegant user experie
 - **Backend**: 9 Spring Boot microservices (User, Course, Progress, Analytics, Notification, Badge, Chat, Feedback, Leaderboard)
 - **Infrastructure**: Docker Compose, MySQL, PostgreSQL, Keycloak, API Gateway
 - **Features**: User management, course enrollment, progress tracking, analytics, notifications, gamification
+
+### **[BizFlow AI](https://github.com/oussemadenguir/BizFlow-ai)**
+*AI-Powered Multi-Tenant Business Management Platform*
+
+- **Frontend**: React 19 + TypeScript with Face ID authentication
+- **Backend**: NestJS 11 REST API with in-process ML (TensorFlow.js)
+- **AI Service**: Python FastAPI microservice with trained ML models
+- **AI Features**: OCR document scanning, expense categorization, invoice payment-risk prediction, fraud detection, customer segmentation, AI chatbot, report generation
+- **Business Features**: Multi-tenant SaaS, invoicing, quotes, expenses, inventory, CRM, role-based access control
+- **Security**: JWT auth, Face ID login (face-api.js), AES-256 encryption, audit logging
 
 ---
 
