@@ -90,7 +90,7 @@ Passionate about building scalable, distributed systems and elegant user experie
 ## 📫 Get In Touch
 
 - **Email**: [oussemadenguir999@gmail.com](mailto:oussemadenguir999@gmail.com)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/oussedenguir)
+- **LinkedIn**: [Connect with me](www.linkedin.com/in/denguir-oussema-b13525298)
 - **GitHub**: [oussemadenguir](https://github.com/oussemadenguir)
 
 ---
